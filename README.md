@@ -2,7 +2,7 @@
 Repozytorium z pomysłami które chcielibyśmy kiedyś zrealizować bądź dokończyć. 
 
 ## Zasady
-Pomysły są podzielone na kategorie odpowiadające sekcjom w kole - mobile, backend, frontend, design a dodatkowo fullstack. Warto trzymać się tej kategorii dla porządku.
+Pomysły są podzielone na kategorie odpowiadające sekcjom w kole - mobile, backend, frontend, design a dodatkowo fullstack. Warto trzymać się tej kategorii dla porządku, choć jeżeli ma się inną propozycje np.: eventy, to można odpowiedni folder dodać, pewnie.
 
 ### Korzystanie z pomysłów
 Wrzucając pomysły tutaj wychodzimy z założenia, iż są to rzeczy, którymi chcielibyśmy się pochwalić, a na które niekoniecznie mamy czas czy umiejętności i nie mamy nic przeciwko aby podchwyciła je inna osoba. Pomysły można przeglądać, proponować zmiany, dodawać własne i dopisywać do nich adnotacje jeżeli szuka się partnera do wykonania takiego pomysłu, jeżeli ma się zamiar go zrobić bądź jeżeli jest się chętnym do uczestnictwa w nim. Pomysły wykonane bądź z różnych powodów zamknięte będą usuwane. Opis wszystkich tych czynności jest zawarty niżej, w punkcie odnośnie zmian w repo.
